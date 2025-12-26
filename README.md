@@ -3,7 +3,7 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/54518/l/paw-logo.png?v=1661778119" width="200" alt="Paw HTTP Client macOS application icon"><br>
+ <img src="https://connect.cloudblue.com/wp-content/uploads/2020/05/paw-rest-client-icon.png" width="200" alt="Paw HTTP Client macOS application icon"><br>
  <a href="https://app-quick-app.github.io/.github/Paw%20HTTP%20Client">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Paw HTTP Client macOS page">
  </a><br><br>
